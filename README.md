@@ -1,7 +1,7 @@
 # Twitter-Disaster-WebApp
 Simple web app which allowed to detect whether the Tweet describing real disaster or not real.
 
-You can test it [here](cezang.pythonanywhere.com).
+You can test it on: (cezang.pythonanywhere.com).
 
 App was created due to [kaggle competition](https://www.kaggle.com/c/nlp-getting-started). 
 
