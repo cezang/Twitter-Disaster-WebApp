@@ -2,6 +2,7 @@
 Simple web app which allowed to detect whether the Tweet describing real disaster or not real.
 
 You can test it [here](http://cezang.pythonanywhere.com).
+You have to paste text of chosen Tweet and press send tweet.
 
 App was created due to [kaggle competition](https://www.kaggle.com/c/nlp-getting-started). 
 
